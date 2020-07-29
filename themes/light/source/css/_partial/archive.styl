@@ -1,0 +1,63 @@
+.archive-title
+  color color-meta
+  font-weight normal
+  margin-bottom 30px
+  text-shadow 0 0 1px #fff
+  &:before
+    font-family font-icon
+    content '\f073'
+    padding-right 15px
+
+  &.tag
+    &:before
+      content '\f02b'
+
+  &.category
+    &:before
+      content '\f07b'
+
+.archive
+  box-shadow 1px 2px 3px color-border
+  border-bottom 1px solid color-border
+  margin-bottom 50px
+  article
+    box-shadow none
+    .post-content
+      margin-bottom 0
+
+
+#page-nav
+  clearfix()
+  margin: block-margin auto
+  background: #fff
+  box-shadow: 1px 2px 3px #ddd
+  border: 1px solid color-border
+  border-radius: 3px
+  text-align: center
+  color: color-grey
+  overflow: hidden
+  a, span
+    padding: 10px 20px
+    line-height: 1
+    height: 2ex
+  a
+    color: color-grey
+    text-decoration: none
+    &:hover
+      background color-link
+      color #fff
+      text-decoration none
+      text-shadow none
+  .prev
+    float: left
+  .next
+    float: right
+  .page-number
+    display: inline-block
+    @media mq-mobile
+      display: none
+  .current
+    color: color-default
+    font-weight: bold
+  .space
+    color: color-border
