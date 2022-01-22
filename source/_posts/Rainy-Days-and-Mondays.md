@@ -3,7 +3,7 @@ title: 'Дождливые Дни и Понедельники'
 tags:
 - переводы
 - short stories
-  date: 2008-10-09 12:53:01
+date: 2008-10-09 12:53:01
 ---
 
 * Rainy Days and Mondays
