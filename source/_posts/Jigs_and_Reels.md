@@ -2,6 +2,7 @@
 title: 'Jigs and Reels'
 tags:
   - переводы
+  - jigs and reels
 date: 2008-10-09 13:53:01
 ---
 

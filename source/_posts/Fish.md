@@ -2,6 +2,7 @@
 title: 'Рыбка'
 tags:
   - переводы
+  - jigs and reels
 date: 2008-10-09 12:53:01
 ---
 

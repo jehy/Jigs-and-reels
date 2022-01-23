@@ -2,6 +2,7 @@
 title: 'G-SUS Ген'
 tags:
   - переводы
+  - jigs and reels
 date: 2008-10-09 12:53:01
 ---
 
